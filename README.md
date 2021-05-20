@@ -8,7 +8,7 @@ comments are added for better understanding. check below model images for better
 ### Code Files
 * ddrnet_23_slim.py ==> ddrnet_23_slim model code
 
-![alt text](https://github.com/hamidriasat/DDRNets/blob/main/architecture.PNG)
+![alt text](https://github.com/hamidriasat/DDRNets/blob/main/images/architecture.PNG)
 
 
 ```
