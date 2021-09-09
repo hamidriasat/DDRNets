@@ -15,3 +15,5 @@ comments are added for better understanding. check below model images for better
 Dependies:
 Tensorflow 2.0 or later
 ```
+
+License under [MIT License](LICENSE)
