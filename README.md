@@ -16,4 +16,4 @@ Dependies:
 Tensorflow 2.0 or later
 ```
 
-License under [MIT License](LICENSE)
+Licensed under [MIT License](LICENSE)
