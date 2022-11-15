@@ -9,12 +9,14 @@
 
 This repository contain implementation of **DDRNet_23_slim** in tensorflow/keras.
 
-comments are added for better understanding. check below model images for better understanding of code.
+Comments are added for better understanding. Check below model images for better understanding of code.
 
 ### Code Files
-* ddrnet_23_slim.py ==> ddrnet_23_slim model code
+* ddrnet_23_slim.py  &rarr;  ddrnet_23_slim model code
 
+# Architecture
 ![alt text](https://github.com/hamidriasat/DDRNets/blob/main/images/architecture.PNG)
+![alt text](https://github.com/hamidriasat/DDRNets/blob/main/images/ddrnet%2023%20for%20imagenet.PNG)
 
 
 ```
